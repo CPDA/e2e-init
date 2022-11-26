@@ -8,7 +8,7 @@ module.exports = defineConfig({
     },
     specPattern: "cypress/e2e/1-getting-started/*.{cy,spec}.{js,jsx,ts,tsx}",
     baseUrl: "https://example.cypress.io",
-    pageLoadTimeout: 1000,
+    // pageLoadTimeout: 1000,
     viewportHeight: 950,
     viewportWidth: 1920,
   },

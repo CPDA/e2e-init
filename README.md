@@ -1,4 +1,4 @@
-# End to End Testing
+# Awesome End to End Testing
 
 ## Cypress vs Playwright
 
